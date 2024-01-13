@@ -1,0 +1,38 @@
+body{
+    background-color: hsl(47, 88%, 63%);
+}
+
+.box1{
+    width: 330px;
+    height: 30rem;
+    background: white;
+    background-position: auto;
+    background-position-x: center;
+    border: 2px solid black;
+    border-radius: 5%;
+    box-shadow: 10px 10px;
+    margin: 10px auto;
+}
+
+h3{
+    background-color: hsl(47, 88%, 63%);
+    width: 20%;
+    border: 1px solid white;
+    border-radius: 15%;
+
+}
+h2{
+    font-style: normal;
+}
+
+p{
+    font-size: 16px;
+    font-style: normal;
+   
+}
+
+img{
+    border: 1px solid white;
+    border-radius: 16%;
+}
+
